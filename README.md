@@ -1,0 +1,20 @@
+TYPE html>
+<html>
+    <head>
+        <title>DOGOMARTOFFICIAL</title>
+    </head>
+    <body>
+        <h1>Home</h1> 
+        <strong><em>Welcome to Mberesia's Boutique</em></strong>
+        <h2>About</h2> 
+        <p>We are a starting organisation located in Nairobi, we sell elegant clothes and shoes for both men and women </p>
+        <h3>Projects</h3>
+        <ul>
+            <li>Trading of clothes</li>
+            <li>Exchange of clothes</li>
+            <li>Brand new shoes</li>    
+        </ul>
+        <h4>links</h4>
+        <a href="https://www.google.com">visit the website</a>
+    </body>
+</html>
